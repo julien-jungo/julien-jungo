@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Julien! 👋
 
-<!--
-**julien-jungo/julien-jungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highly motivated Master student in Software Engineering at FH Campus Wien and Software Engineer intern at Erste Digital with a passion for continuous learning and growth.
 
-Here are some ideas to get you started:
+## 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graduated with a B.Sc. in Computer Science from FHNW
+- Pursuing a M.Sc. in Software Engineering at FH Campus Wien
+- Working as a Software Engineer intern at Erste Digital
+
+## 🚀 Projects
+
+- 🔗 [Cane Add-on for Accessible Museum Visits](https://github.com/mio-guide/mio-guide-cane)
+- 🔗 [PWA for Accessible Museum Visits](https://github.com/mio-guide/mio-guide-app)
+
+## 💻 Skills
+
+[![Skills](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,angular,gcp,k8s,docker)](https://skillicons.dev)
