@@ -1,6 +1,6 @@
-# Hi, I'm Julien! 👋
+![Banner](https://raw.githubusercontent.com/julien-jungo/julien-jungo/refs/heads/main/img/banner.png)
 
-Highly motivated Master student in Software Engineering at FH Campus Wien and Software Engineer intern at Erste Digital with a passion for continuous learning and growth.
+# Welcome! 👋
 
 ## 💼 About Me
 
