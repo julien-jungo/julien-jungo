@@ -10,8 +10,8 @@
 
 ## 🚀 Projects
 
-- 🔗 [Cane Add-on for Accessible Museum Visits](https://github.com/mio-guide/mio-guide-cane)
-- 🔗 [PWA for Accessible Museum Visits](https://github.com/mio-guide/mio-guide-app)
+- 🔗 [Cane Add-on for Accessible Museum Visits](https://github.com/mio-guide/mio-guide-cane) (credited in [CONTRIBUTORS.md](https://github.com/mio-guide/mio-guide-cane/blob/main/CONTRIBUTORS.md))
+- 🔗 [PWA for Accessible Museum Visits](https://github.com/mio-guide/mio-guide-app) (credited in [CONTRIBUTORS.md](https://github.com/mio-guide/mio-guide-app/blob/main/CONTRIBUTORS.md))
 
 ## 💻 Skills
 
