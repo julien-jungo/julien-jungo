@@ -1,6 +1,4 @@
-![Banner](https://raw.githubusercontent.com/julien-jungo/julien-jungo/refs/heads/main/img/banner.png)
-
-# Welcome! 👋
+# Hi, I'm Julien! 👋
 
 ## 💼 About Me
 
