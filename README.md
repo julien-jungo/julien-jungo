@@ -13,4 +13,4 @@
 
 ## 💻 Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,angular,gcp,k8s,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,angular,gcp,terraform,k8s,docker)](https://skillicons.dev)
