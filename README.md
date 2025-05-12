@@ -2,9 +2,7 @@
 
 ## 💼 About Me
 
-- Graduated with a B.Sc. in Computer Science from FHNW
-- Pursuing a M.Sc. in Software Engineering at FH Campus Wien
-- Currently working as a Software Engineer intern at Erste Digital
+Software Engineer Intern at Erste Digital with expertise in fullstack development using Java, JavaScript, and modern frameworks such as Spring Boot, Angular & React. Experienced with DevOps practices and cloud technologies. Passionate about delivering innovative solutions and continuous learning.
 
 ## 🚀 Projects
 
