@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 
-Software Engineer Intern at Erste Digital with expertise in fullstack development using Java, JavaScript, and modern frameworks such as Spring Boot, Angular & React. Experienced with DevOps practices and cloud technologies. Passionate about delivering innovative solutions and continuous learning.
+Software Engineer at PostFinance with expertise in fullstack development using Java, JavaScript, and modern frameworks such as Spring Boot, Angular & React. Experienced with DevOps practices and cloud technologies. Passionate about delivering innovative solutions and continuous learning.
 
 ## 🚀 Projects
 
