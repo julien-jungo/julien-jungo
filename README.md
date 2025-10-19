@@ -8,8 +8,11 @@ Software Engineer at PostFinance with expertise in fullstack development using J
 
 - 🔗 [Mio Guide Cane](https://github.com/mio-guide/mio-guide-cane) *
 - 🔗 [Mio Guide App](https://github.com/mio-guide/mio-guide-app) *
+- 🔗 [RaftStore](https://github.com/julien-jungo/raftstore)
 - 🔗 [Cloud Notify](https://github.com/julien-jungo/cloudnotify)
 - 🔗 [Counterwatch](https://github.com/julien-jungo/counterwatch)
+- 🔗 [HTTPLite](https://github.com/julien-jungo/httplite)
+- 🔗 [Sudoku](https://github.com/julien-jungo/sudoku)
 
 \* See `CONTRIBUTORS.md` for credits.
 
