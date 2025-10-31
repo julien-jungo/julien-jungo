@@ -11,6 +11,7 @@ Software Engineer at PostFinance with expertise in fullstack development using J
 - 🔗 [RaftStore](https://github.com/julien-jungo/raftstore)
 - 🔗 [Cloud Notify](https://github.com/julien-jungo/cloudnotify)
 - 🔗 [Counterwatch](https://github.com/julien-jungo/counterwatch)
+- 🔗 [GoBalance](https://github.com/julien-jungo/gobalance)
 - 🔗 [HTTPLite](https://github.com/julien-jungo/httplite)
 - 🔗 [Sudoku](https://github.com/julien-jungo/sudoku)
 
