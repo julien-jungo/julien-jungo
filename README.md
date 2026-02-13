@@ -6,14 +6,14 @@ Software Engineer at PostFinance specializing in cloud-native architectures and 
 
 ## 🚀 Projects
 
-- 🔗 [Mio Guide Cane](https://github.com/mio-guide/mio-guide-cane) * — A cane add-on that leverages OpenMV machine vision to detect lines and codes on the floor, providing accessible navigation for visually impaired users through audio feedback.
-- 🔗 [Mio Guide App](https://github.com/mio-guide/mio-guide-app) * — A progressive web app that assists visually impaired users during museum visits through text-to-speech, gesture-based navigation, and a QR code scanner for reading exhibit descriptions.
-- 🔗 [clio](https://github.com/julien-jungo/clio) — A terminal-based coding assistant built in Go, backed by an LLM with tool use capable of reading and writing files, running shell commands, and helping with coding tasks.
-- 🔗 [rsh](https://github.com/julien-jungo/rsh) — A minimal Unix-like shell written in Rust featuring builtin commands, external command execution with PATH lookup, quoting with escape sequences, I/O redirection, and home directory expansion.
-- 🔗 [RaftStore](https://github.com/julien-jungo/raftstore) — A distributed key-value store providing strong consistency through the Raft consensus algorithm, built with Apache Ratis and exposing a non-blocking HTTP endpoint via Spring WebFlux.
-- 🔗 [Cloud Notify](https://github.com/julien-jungo/cloudnotify) — An extensible notification system on GCP that dispatches messages to a Discord webhook via a REST API, powered by Cloud Functions and PubSub with infrastructure defined in Terraform.
-- 🔗 [GoBalance](https://github.com/julien-jungo/gobalance) — A reverse proxy load balancer written in Go that distributes incoming HTTP requests across multiple backend servers using a round-robin strategy.
-- 🔗 [Counterwatch](https://github.com/julien-jungo/counterwatch) — A web app for looking up hero counters in Overwatch, letting users search for any hero and instantly see which characters counter them.
+- 🔗 [Mio Guide Cane](https://github.com/mio-guide/mio-guide-cane) *
+- 🔗 [Mio Guide App](https://github.com/mio-guide/mio-guide-app) *
+- 🔗 [clio](https://github.com/julien-jungo/clio)
+- 🔗 [rsh](https://github.com/julien-jungo/rsh)
+- 🔗 [RaftStore](https://github.com/julien-jungo/raftstore)
+- 🔗 [Cloud Notify](https://github.com/julien-jungo/cloudnotify)
+- 🔗 [GoBalance](https://github.com/julien-jungo/gobalance)
+- 🔗 [Counterwatch](https://github.com/julien-jungo/counterwatch)
 
 \* See `CONTRIBUTORS.md` for credits.
 
