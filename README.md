@@ -8,6 +8,7 @@ Software Engineer at PostFinance specializing in cloud-native architectures and 
 
 - 🔗 [Mio Guide Cane](https://github.com/mio-guide/mio-guide-cane) *
 - 🔗 [Mio Guide App](https://github.com/mio-guide/mio-guide-app) *
+- 🔗 [GoKart](https://github.com/julien-jungo/gokart)
 - 🔗 [clio](https://github.com/julien-jungo/clio)
 - 🔗 [rsh](https://github.com/julien-jungo/rsh)
 - 🔗 [RaftStore](https://github.com/julien-jungo/raftstore)
